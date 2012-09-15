@@ -1,5 +1,7 @@
 {
     "name": "mattketmo/camel",
+    "description": "Tiny library to handle words case transformation",
+    "keywords": ["case", "transform", "camelcase", "snakecase", "lowercase"],
     "authors": [
         {
             "name": "Matthieu Moquet",
