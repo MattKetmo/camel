@@ -1,5 +1,7 @@
 # Camel
 
+[![Build Status](https://secure.travis-ci.org/MattKetmo/camel.png)](http://travis-ci.org/MattKetmo/camel)
+
 Tiny library to handle words case transformation.
 
 The main idea is to split the given word into several words and assemble them
