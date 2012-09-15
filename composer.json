@@ -1,0 +1,14 @@
+{
+    "name": "mattketmo/camel",
+    "authors": [
+        {
+            "name": "Matthieu Moquet",
+            "email": "matthieu@moquet.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Camel": "src/"
+        }
+    }
+}
