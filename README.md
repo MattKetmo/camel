@@ -1,6 +1,8 @@
 # Camel
 
-[![Build Status](https://secure.travis-ci.org/MattKetmo/camel.png)](http://travis-ci.org/MattKetmo/camel)
+[![Build status...](https://img.shields.io/travis/MattKetmo/camel.svg?style=flat)](http://travis-ci.org/MattKetmo/camel)
+[![License MIT](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/MattKetmo/camel/blob/master/LICENSE)
+[![Packagist](http://img.shields.io/github/tag/MattKetmo/camel.svg?style=flat)](https://packagist.org/packages/mattketmo/email-checker)
 
 Tiny library to handle words case transformation.
 
@@ -13,7 +15,7 @@ Example: `camelCase => [camel, Case] => camel_case`
 
 Via Composer:
 
-```
+```shell
 curl -s https://getcomposer.org/installer | php
 php composer.phar install
 ```
@@ -41,3 +43,8 @@ echo $transformer2->transform('helloWorld');  // HELLO_WORLD
 - `StudlyCaps`
 - `snake_case`
 - `SCREAMING_SNAKE_CASE`
+
+## License
+
+Camel is released under the MIT License.
+See the [bundled LICENSE file](LICENSE) for details.
