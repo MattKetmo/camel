@@ -1,6 +1,7 @@
 {
     "name": "mattketmo/camel",
     "description": "Tiny library to handle words case transformation",
+    "license": "MIT",
     "keywords": ["case", "transform", "camelcase", "snakecase", "lowercase"],
     "authors": [
         {
