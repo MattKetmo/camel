@@ -3,7 +3,7 @@
 [![Build status...](https://img.shields.io/travis/MattKetmo/camel.svg?style=flat)](http://travis-ci.org/MattKetmo/camel)
 [![Code quality...](https://img.shields.io/scrutinizer/g/MattKetmo/camel.svg?style=flat)](https://scrutinizer-ci.com/g/MattKetmo/camel/)
 [![License MIT](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/MattKetmo/camel/blob/master/LICENSE)
-[![Packagist](http://img.shields.io/github/tag/MattKetmo/camel.svg?style=flat)](https://packagist.org/packages/mattketmo/email-checker)
+[![Packagist](http://img.shields.io/packagist/v/mattketmo/camel.svg?style=flat)](https://packagist.org/packages/mattketmo/camel)
 
 Tiny library to handle words case transformation.
 
