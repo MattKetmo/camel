@@ -44,6 +44,7 @@ echo $transformer2->transform('helloWorld');  // HELLO_WORLD
 - `StudlyCaps`
 - `snake_case`
 - `SCREAMING_SNAKE_CASE`
+- `spinal-case`
 
 ## Unit Tests
 
