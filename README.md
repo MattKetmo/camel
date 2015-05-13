@@ -18,7 +18,7 @@ Via Composer:
 
 ```shell
 curl -s https://getcomposer.org/installer | php
-php composer.phar install
+php composer.phar install --no-dev
 ```
 
 ## Usage
@@ -44,6 +44,21 @@ echo $transformer2->transform('helloWorld');  // HELLO_WORLD
 - `StudlyCaps`
 - `snake_case`
 - `SCREAMING_SNAKE_CASE`
+
+## Unit Tests
+
+Install `phpunit` via Composer:
+
+```shell
+curl -s https://getcomposer.org/installer | php
+php composer.phar install
+```
+
+Once installed, run the following command:
+
+```shell
+vendor/bin/phpunit
+```
 
 ## License
 
