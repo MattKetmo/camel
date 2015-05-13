@@ -14,11 +14,8 @@ Example: `camelCase => [camel, Case] => camel_case`
 
 ## Installation
 
-Via Composer:
-
 ```shell
-curl -s https://getcomposer.org/installer | php
-php composer.phar install --no-dev
+composer require mattketmo/camel
 ```
 
 ## Usage
@@ -51,8 +48,7 @@ echo $transformer2->transform('helloWorld');  // HELLO_WORLD
 Install `phpunit` via Composer:
 
 ```shell
-curl -s https://getcomposer.org/installer | php
-php composer.phar install
+composer install
 ```
 
 Once installed, run the following command:
