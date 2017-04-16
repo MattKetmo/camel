@@ -59,5 +59,5 @@ vendor/bin/phpunit
 
 ## License
 
-Camel is released under the MIT License.
+Camel is released under the MIT License.  
 See the [bundled LICENSE file](LICENSE) for details.
